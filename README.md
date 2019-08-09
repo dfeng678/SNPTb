@@ -5,9 +5,7 @@ REQUIRED: Make sure path directories are correct for each step
 
 COMMAND: python3 project.py -i /home/path2directory -o fileName -b /home/path2directory -g /home/path2directory/fileName -f /home/path2directory/fileName
 
--i Input vcf directory (required)
-
--o File name of the output vcf file
+-v Path to the vcf file (required)
 
 -b Path to the bamfiles directory (required)
 
