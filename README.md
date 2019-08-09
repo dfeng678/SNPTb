@@ -5,6 +5,8 @@ REQUIRED: Make sure path directories are correct for each step
 
 Install Biopython module using: sudo apt-get install python-biopython
 
+Ensure that the R packages Rsamtools, reshape2, ggplot2, and knitr are installed on machine
+
 COMMAND: python3 project.py -i /home/path2directory -o fileName -b /home/path2directory -g /home/path2directory/fileName -f /home/path2directory/fileName
 
 -v Path to the vcf file (required)
