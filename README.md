@@ -14,3 +14,5 @@ COMMAND: python3 project.py -i /home/path2directory -o fileName -b /home/path2di
 -g Path to the input gtf file (required)
 
 -f Path to the input fasta file (required)
+
+Directory names should end in '/', File names should not end in '/'
